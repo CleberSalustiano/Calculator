@@ -1,3 +1,3 @@
 # Calculator
 
-Esse programa é uma calculadora feita em Java Swing.
+This program is a calculator made in Java Swing.
